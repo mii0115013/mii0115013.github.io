@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+h1 {
+  color: #fff;
+}
+
+img {
+  max-width: 100%;
+  width: 100%;
+}
+
+.header,
+.footer{
+  background: green;
+}
+
+.carousel-inner {
+  height: 400px;
+  position: relative;
+}
+
+.link {
+  margin: 20px 0;
+}
+
+.link ul li {
+  display: inline-block;
+  vertical-align: middle;
+  width: 30%;
+}

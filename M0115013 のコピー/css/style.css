@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  padding-left: 1rem;
+}
+
+dl dd {
+  padding-left: 1rem;
+}
+
+h4,
+.h4 {
+  font-weight: bold;
+}
+
+.text {
+  margin-left: 1rem;
+}
+
+.label-success {
+  background: #d17fd9;
+}
