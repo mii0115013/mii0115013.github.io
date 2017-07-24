@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+
+.jumbotron {
+  position: relative;
+}
+
+
+.jumbotron h1 {
+  position: absolute;
+  color: whitesmoke;
+  font-family :Quicksand, fantasy;
+  font-size: 32px;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.container a {
+  color: #555555;
+}
+
+
+
+.jumbotron img {
+  width: 100%;
+}
+
+
+.about {
+  text-align: center;
+}
+
+.about a{
+  font-size: 50px;
+  color: #555555;
+}
+
+.works {
+  text-align: center;
+}
+
+.works a{
+  font-size: 50px;
+  color: #555555;
+}
+
+
+.news {
+  text-align: center;
+}
+
+.news a{
+  font-size: 50px;
+  color: #555555;
+}
+
+
+.contact {
+  text-align: center;
+}
+
+.contact a{
+  font-size: 50px;
+  color: #555555;
+}
