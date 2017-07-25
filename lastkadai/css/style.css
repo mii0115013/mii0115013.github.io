@@ -84,3 +84,8 @@
   text-align: center;
 }
 
+
+.header,
+.footer{
+  background: hotpink;
+}
