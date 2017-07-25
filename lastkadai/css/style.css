@@ -61,6 +61,7 @@
   font-family :Quicksand, fantasy;
 }
 
+
 .news a{
   font-size: 50px;
   color: #555555;
@@ -72,7 +73,14 @@
   font-family :Quicksand, fantasy;
 }
 
+
 .contact a{
   font-size: 50px;
   color: #555555;
 }
+
+
+.sent {
+  text-align: center;
+}
+
