@@ -6,6 +6,11 @@
 }
 
 
+.jumbotron img {
+  width: 100%;
+}
+
+
 .jumbotron h1 {
   position: absolute;
   color: whitesmoke;
@@ -19,11 +24,6 @@
 
 .container a {
   color: #555555;
-}
-
-
-.jumbotron img {
-  width: 100%;
 }
 
 
