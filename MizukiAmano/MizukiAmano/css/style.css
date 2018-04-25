@@ -26,73 +26,22 @@
   color: #555555;
 }
 
+.works {
+  text-align: center;
+}
+
 
 .home{
   font-family :Quicksand, fantasy;
 }
 
 
-.about {
-  text-align: center;
-  font-family :Quicksand, fantasy;
+.about h3 {
+  font-weight: bold;
 }
 
 
-.about a{
-  font-size: 50px;
-  color: #555555;
+.about_text p {
+  line-height: 36px;
 }
-
-
-.about_sns a {
-  font-size: 20px;
-}
-
-
-.works {
-  text-align: center;
-  font-family :Quicksand, fantasy;
-}
-
-
-.works a{
-  font-size: 50px;
-  color: #555555;
-}
-
-
-.news {
-  text-align: center;
-  font-family :Quicksand, fantasy;
-}
-
-
-.news a{
-  font-size: 50px;
-  color: #555555;
-}
-
-
-.contact {
-  text-align: center;
-  font-family :Quicksand, fantasy;
-}
-
-
-.contact a{
-  font-size: 50px;
-  color: #555555;
-}
-
-
-.sent {
-  text-align: center;
-}
-
-
-.header,
-.footer{
-  background: hotpink;
-}
-
 
